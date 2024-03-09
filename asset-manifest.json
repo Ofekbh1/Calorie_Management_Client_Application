@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calorie_Management_Client_Application/static/css/main.75f0937d.css",
+    "main.js": "/Calorie_Management_Client_Application/static/js/main.bec265af.js",
+    "static/js/453.2892c32c.chunk.js": "/Calorie_Management_Client_Application/static/js/453.2892c32c.chunk.js",
+    "index.html": "/Calorie_Management_Client_Application/index.html",
+    "main.75f0937d.css.map": "/Calorie_Management_Client_Application/static/css/main.75f0937d.css.map",
+    "main.bec265af.js.map": "/Calorie_Management_Client_Application/static/js/main.bec265af.js.map",
+    "453.2892c32c.chunk.js.map": "/Calorie_Management_Client_Application/static/js/453.2892c32c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f0937d.css",
+    "static/js/main.bec265af.js"
+  ]
+}
